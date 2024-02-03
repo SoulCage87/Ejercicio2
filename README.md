@@ -1,0 +1,5 @@
+USER = 'postgres'
+PASS = 'Apex2077'
+DB = 'videojuegos'
+HOST = 'localhost'
+PORT_DB = '5432'
